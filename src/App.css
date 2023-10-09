@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  height: 80vh;
+}
+
+.body {
+  display: flex;
+  max-width: 800px;
+  margin: auto;
+  margin-top: 2%;
+  justify-content: space-around;
+  align-items: center;
+}
+
+nav {
+  padding: 30px;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+}
+
+.logo-container img {
+  max-width: 80px; /* Adjust the maximum width as needed */
+}
+
+.logoMiddle {
+  max-width: 120px !important;
+}

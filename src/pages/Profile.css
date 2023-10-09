@@ -1,0 +1,12 @@
+.profile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 80vh;
+}
+
+.profileHeader{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
